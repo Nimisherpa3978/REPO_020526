@@ -1,3 +1,15 @@
+# PROJECT STRUCTURE
+virtual-gesture-keyboard/
+│── main.py
+│── requirements.txt
+│── README.md
+
+#REQUIREMENT.TXT
+opencv-python
+mediapipe
+pyautogui
+
+#🧠 main.py (WORKING CODE)
 import cv2
 import mediapipe as mp
 import pyautogui
